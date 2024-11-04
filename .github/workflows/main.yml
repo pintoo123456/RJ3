@@ -36,4 +36,4 @@ jobs:
           python main.py ${BOT_TOKEN} &
 
       - name: Keep the bot active
-        run: sleep $((14 * 24 * 60 * 60))￼Enter
+        run: sleep $((14 * 24 * 60 * 60))
